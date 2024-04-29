@@ -1,6 +1,5 @@
 # Rust
 contract-rs/target/
-contract-rs/Cargo.lock
 
 # TypeScript - Sandbox
 ./contract-ts/sandbox-ts/package-lock.json
